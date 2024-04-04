@@ -6,7 +6,6 @@
 build/
 android/
 ios/
-lib/
 linux/
 macos/
 web/
